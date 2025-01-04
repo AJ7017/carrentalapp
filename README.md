@@ -1,6 +1,6 @@
 # carrentalapp
 
-A new Flutter project.
+CarRentalApp is a modern and user-friendly car rental platform designed to make renting a car seamless, efficient, and enjoyable. With an intuitive interface, detailed car listings, and integrated mapping features, the app provides everything a user needs to explore, compare, and book their ideal car for any occasion.
 
 ## Getting Started
 
