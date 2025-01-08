@@ -41,7 +41,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDjNxFBWXWgcCn5WrCfW7ptCzq9kQGqlfM',
+    apiKey: 'Your api key',
     appId: '1:142390867095:web:78bfe6f03c0eba137365d2',
     messagingSenderId: '142390867095',
     projectId: 'car-rental-app-aj',
@@ -51,7 +51,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDGTfEq1Jpnrxwh7t43EHasKwVhZsuGzN4',
+    apiKey: 'Your api key',
     appId: '1:142390867095:android:82614d5bdbc84ee67365d2',
     messagingSenderId: '142390867095',
     projectId: 'car-rental-app-aj',
@@ -59,7 +59,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCG4rXNka0kBbHEMT2es7Yo49W0vVOKPpU',
+    apiKey: 'your api key',
     appId: '1:142390867095:ios:7af6d2f6b0724d737365d2',
     messagingSenderId: '142390867095',
     projectId: 'car-rental-app-aj',
@@ -68,7 +68,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCG4rXNka0kBbHEMT2es7Yo49W0vVOKPpU',
+    apiKey: 'your api key',
     appId: '1:142390867095:ios:7af6d2f6b0724d737365d2',
     messagingSenderId: '142390867095',
     projectId: 'car-rental-app-aj',
@@ -77,7 +77,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyDjNxFBWXWgcCn5WrCfW7ptCzq9kQGqlfM',
+    apiKey: 'your api key',
     appId: '1:142390867095:web:1a33719ca47d6a4c7365d2',
     messagingSenderId: '142390867095',
     projectId: 'car-rental-app-aj',
